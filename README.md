@@ -1,4 +1,4 @@
-# Book Management System in C
+# Book Management System in C++
 
 Welcome to the Book Management System project! This system is implemented in the C programming language and provides features for managing a collection of books, including adding, searching, editing, and deleting books from the system.
 
